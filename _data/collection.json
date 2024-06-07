@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "The \"M\" Word" ] },
+    "summary": { "en": [ "Kristine Dizon's episode on \"The M Word: Marketing\" offers valuable insights into building impactful brand narratives and ethical marketing practices. Gain practical tips for leveraging digital strategies and creating authentic connections with your audience." ] },
+    "items": [
+    ]
+}
