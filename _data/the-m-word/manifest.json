@@ -23,6 +23,16 @@
         "id": "https://sarah-freeman.github.io/themword/the-m-word/canvas-1/canvas",
         "type": "Canvas",
         "duration": 477.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sarah-freeman.github.io/themword/annotations/the-m-word-canvas-1-test-layer.json",
+            "label": {
+              "none": ["Test layer"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://sarah-freeman.github.io/themword/the-m-word/canvas-1/paintings",
